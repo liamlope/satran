@@ -1,0 +1,10 @@
+Package: satran
+Version: 1.1.9
+Architecture: amd64
+Filename: pool/main/s/satran/satran_1.1.9_amd64.deb
+Size: 80496724
+SHA256: e13731e9b31cd801078da1f486547b7a64921b91f6a15843aa121f232e570009
+Depends: libc6, libcap2-bin, libfontconfig1, libice6, libsm6, libx11-6, libxcursor1, libxext6, libxi6, libxrandr2
+Description: SatraN - premium desktop client for Satra (v2rayN fork)
+ Xray based client with Satra Hub support.
+

@@ -1,0 +1,16 @@
+Origin: SatraN
+Label: SatraN
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Date: Tue, 20 Oct 2026 03:53:51 +0000
+MD5Sum:
+ ed601cf8c58bfded5e1105a5dee620e2 418 main/binary-amd64/Packages
+ 92132e5d9957910ebba452249bb7d72b 311 main/binary-amd64/Packages.gz
+SHA1:
+ 2fac2024bf4bb7b7b0f0d3f83a66cc5d47f4c739 418 main/binary-amd64/Packages
+ cbd3150325fc61be0813a65b4c2882285d3589be 311 main/binary-amd64/Packages.gz
+SHA256:
+ 9c74e0967154cbef401ab4d36f072f602574005c53bd941c20d7987ea349c349 418 main/binary-amd64/Packages
+ fece19d3d6d5b3d27a734841ef3641b95fd2d9f68c7505dcfa65e41626479639 311 main/binary-amd64/Packages.gz
